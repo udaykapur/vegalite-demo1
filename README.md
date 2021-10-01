@@ -1,1 +1,0 @@
-# vegalite-demo1
